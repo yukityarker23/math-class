@@ -1,0 +1,41 @@
+Grade 1
+
+Addition
+
+Subtraction
+
+Max Value = 20
+
+Timer = 15s
+
+----------------------------------
+
+Grade 2
+
+Multiplication
+
+Division
+
+Max Value = 100
+
+Timer = 12s
+
+----------------------------------
+
+Grade 3
+
+Fractions
+
+Word Problems
+
+...
+
+----------------------------------
+
+College
+
+Calculus
+
+Matrices
+
+Statistics
